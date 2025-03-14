@@ -1,5 +1,5 @@
 
-# Pi Day [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/pi&file=piDayBlog.mlx&focus=true)
+# π [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/pi&file=piDayBlog.mlx&focus=true)
 <a name="beginToc"></a>
 
 ## Table of Contents
@@ -69,7 +69,7 @@ hold off;
 *Archimedes method*
 
 
-This turns out to be the approach that Archimedes took[\[AD1\]](about:blank<#_msocom_1%3E) , by generalizing beyond a square to a polygon. You can view a circle as a polygon with an infinite number of sides: 
+This turns out to be the approach that Archimedes took, by generalizing beyond a square to a polygon. You can view a circle as a polygon with an infinite number of sides: 
 
 1.  Start with a known polygon (e.g., a hexagon) whose perimeter can be easily computed.
 2. Repeatedly **double the number of sides** to create larger inscribed and smaller circumscribed polygons.
